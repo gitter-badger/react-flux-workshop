@@ -1,5 +1,7 @@
 # Материалы к воркшопу «React.js и архитектура Flux»
 
+[![Join the chat at https://gitter.im/nahkar/react-flux-workshop](https://badges.gitter.im/nahkar/react-flux-workshop.svg)](https://gitter.im/nahkar/react-flux-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 В папке *slides* находятся слайды.
 
 В папке *lessons* находятся 22 урока.
